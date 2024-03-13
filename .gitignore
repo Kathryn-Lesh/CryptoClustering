@@ -1,0 +1,5 @@
+
+.DS_Store
+Crypto_Clustering_starter_code.ipynb
+.ipynb_checkpoints/*
+.gitignore~
